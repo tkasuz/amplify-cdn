@@ -1,0 +1,13 @@
+{
+  "name": "cdn",
+  "type": "category",
+  "commands": [
+    "version",
+    "help",
+    "add",
+    "update",
+    "remove",
+    "push"
+  ],
+  "eventHandlers": []
+}
